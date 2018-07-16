@@ -1,2 +1,2 @@
 # eiv-dictionary
-English irregular verbs dictionary
+List of English irregular verbs.
